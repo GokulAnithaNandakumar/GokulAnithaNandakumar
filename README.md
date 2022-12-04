@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning different languages and coding them
 - 🌱 I’m currently learning Python and willing to learn more
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on my mail:gokul.nandakumar04@gmail.com
+- 📫 Reach me on my mail: gokul.nandakumar04@gmail.com
 
 <!---
 GokulAnithaNandakumar/GokulAnithaNandakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

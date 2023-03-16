@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GokulAnithaNandakumar
-- 👀 I’m interested in learning different languages and coding them
+- 👀 I’m interested in learning different programming languages
 - 🌱 I’m currently learning Python and willing to learn more
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on my mail: gokul.nandakumar04@gmail.com

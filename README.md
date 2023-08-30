@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GokulAnithaNandakumar
 - 👀 I’m interested in learning different programming languages
-- 🌱 I’m currently learning C Programming and willing to learn more
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java Programming and willing to learn more
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me on my mail: gokul.nandakumar04@gmail.com
 
 <!---

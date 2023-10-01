@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me on my mail: gokul.nandakumar04@gmail.com
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GokulAnithaNandakumar)](https://git.io/streak-stats)
+
 <!---
 GokulAnithaNandakumar/GokulAnithaNandakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GokulAnithaNandakumar)](https://git.io/streak-stats)

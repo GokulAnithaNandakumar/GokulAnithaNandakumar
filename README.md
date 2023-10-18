@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Java Programming and willing to learn more
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me on my mail: gokul.nandakumar04@gmail.com
+- <br/>
+Languages and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,c,html,javascript,git,github,discord,bootstrap)
 

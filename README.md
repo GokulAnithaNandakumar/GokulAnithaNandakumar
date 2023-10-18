@@ -6,4 +6,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,c,html,javascript,git,github,discord,bootstrap)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GokulAnithaNandakumar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GokulAnithaNandakumar&theme=dark)](https://git.io/streak-stats)

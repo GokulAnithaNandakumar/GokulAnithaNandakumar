@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Web Development</br>
 - 📫 Reach me on my mail: gokul.nandakumar04@gmail.com
 <br/>
-Languages and Tools:
+
+<h3 align="left">Languages and Tools:</h3></br>
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,c,html,javascript,git,github,discord,bootstrap)
 

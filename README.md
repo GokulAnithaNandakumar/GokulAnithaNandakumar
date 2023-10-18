@@ -5,7 +5,7 @@
 - 📫 Reach me on my mail: gokul.nandakumar04@gmail.com
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GokulAnithaNandakumar)](https://git.io/streak-stats)
+
 
 <!---
 GokulAnithaNandakumar/GokulAnithaNandakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

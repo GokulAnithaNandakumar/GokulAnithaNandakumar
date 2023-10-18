@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gokul</h1>
-- 👀 I’m interested in learning different programming languages
-- 🌱 I’m currently learning Java Programming and willing to learn more
-- 💞️ I’m looking to collaborate on Web Development
+
+- 👀 I’m interested in learning different programming languages</br>
+- 🌱 I’m currently learning Java Programming and willing to learn more</br>
+- 💞️ I’m looking to collaborate on Web Development</br>
 - 📫 Reach me on my mail: gokul.nandakumar04@gmail.com
 - <br/>
 Languages and Tools:

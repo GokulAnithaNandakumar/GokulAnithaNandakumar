@@ -19,4 +19,4 @@
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GokulAnithaNandakumar&show_icons=true&theme=transparent)-->
 <h3>My Holopin Badges</h3>
-[![An image of @gokulanithanandakumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gokulanithanandakumar)](https://holopin.io/@gokulanithanandakumar)
+[![An image of @gokulanithanandakumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gokulanithanandakumar)]

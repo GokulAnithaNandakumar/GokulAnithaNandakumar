@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3></br>
 
-![My Skills](https://skillicons.dev/icons?i=py,java,c,html,javascript,git,github,discord,bootstrap,bulma)
+![My Skills](https://skillicons.dev/icons?i=py,java,c,html,javascript,git,github,discord,bootstrap,figma)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GokulAnithaNandakumar&theme=dark)](https://git.io/streak-stats)
 

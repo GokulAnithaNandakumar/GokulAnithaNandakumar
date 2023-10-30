@@ -9,7 +9,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,c,html,javascript,git,github,discord,bootstrap,figma)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GokulAnithaNandakumar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GokulAnithaNandakumar&theme=highcontrast)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulAnithaNandakumar&layout=compact&theme=vision-friendly-dark)](https://github.com/GokulAnithaNandakumar/github-readme-stats)

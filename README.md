@@ -13,9 +13,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulAnithaNandakumar&layout=compact&theme=vision-friendly-dark)](https://github.com/GokulAnithaNandakumar/github-readme-stats)
-<h3>My Holopin Badges</h3>
 
-[![An image of @gokulanithanandakumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gokulanithanandakumar)](https://holopin.io/@gokulanithanandakumar)
 
 
 
@@ -31,4 +29,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=GokulAnithaNandakumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amrit02102004&icon=4&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GokulAnithaNandakumar&icon=4&color=12)](https://visitcount.itsvg.in)
+
+
+# My Holopin Badges
+
+[![An image of @gokulanithanandakumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gokulanithanandakumar)](https://holopin.io/@gokulanithanandakumar)

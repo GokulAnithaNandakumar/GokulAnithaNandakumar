@@ -9,18 +9,15 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,c,html,css,javascript,mongodb,express,react,nodejs,flutter,swift,git,github,discord,bootstrap,figma)
 
+# 📊 GitHub Stats:
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=GokulAnithaNandakumar&theme=highcontrast)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulAnithaNandakumar&layout=compact&theme=vision-friendly-dark)](https://github.com/GokulAnithaNandakumar/github-readme-stats)
 
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GokulAnithaNandakumar&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GokulAnithaNandakumar&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulAnithaNandakumar&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GokulAnithaNandakumar&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)

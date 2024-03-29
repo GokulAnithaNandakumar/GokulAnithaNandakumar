@@ -8,11 +8,7 @@
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=GokulAnithaNandakumar&label=Profile%20views&color=0e75b6&style=flat" alt="GokulAnithaNandakumar" /> </p> -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GokulAnithaNandakumar.GokulAnithaNandakumar&left_color=blue&right_color=grey" alt="Visitors badge" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/GokulAnithaNandakumar?labelColor=00cc88&color=grey&link=https://www.github.com/GokulAnithaNandakumar" />
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/GokulAnithaNandakumar?labelColor=yellow&color=grey&link=https://www.github.com/GokulAnithaNandakumar" />
-  <img alt="Language count" src="https://img.shields.io/badge/languages-7-9944ff?labelColor=9944ff&color=grey">
-  <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/pip?labelColor=4444ff&color=grey">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GokulAnithaNandakumar" alt="Visitors badge" />
 </p>
 
 # 💻 Tech Stack:

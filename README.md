@@ -14,6 +14,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,c,html,css,javascript,mongodb,express,react,nodejs,flutter,swift,git,github,discord,bootstrap,figma)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 # 📊 GitHub Stats:
 
 
@@ -21,6 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulAnithaNandakumar&layout=compact&theme=vision-friendly-dark)](https://github.com/GokulAnithaNandakumar/github-readme-stats)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 🏆 GitHub Trophies

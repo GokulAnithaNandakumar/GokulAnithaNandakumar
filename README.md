@@ -41,10 +41,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb)
+![Express.js](https://img.shields.io/badge/express.js-000?&logo=express)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![OpenCV](https://img.shields.io/badge/opencv-000?&logo=opencv)
 
 <!--### Full Stack Projects
 

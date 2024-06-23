@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gokul</h1></br>
-- 👀 I’m interested in learning different programming languages</br>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      - 👀 I’m interested in learning different programming languages</br>
 - 🌱 I’m currently learning Java Programming and willing to learn more</br>
 - 💞️ I’m looking to collaborate on Web Development</br>
 - 📫 Reach me on my mail: gokul.nandakumar04@gmail.com

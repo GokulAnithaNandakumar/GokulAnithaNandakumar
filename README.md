@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi 👋, I'm Gokul</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      - 👀 I’m interested in learning different programming languages</br>
 - 🌱 I’m currently learning Java Programming and willing to learn more</br>
@@ -11,11 +11,34 @@
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=GokulAnithaNandakumar&label=Profile%20views&color=0e75b6&style=flat" alt="GokulAnithaNandakumar" /> </p> -->
 
 
-# 💻 Tech Stack:
+<!--# 💻 Tech Stack:
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,c,html,css,javascript,mongodb,express,react,nodejs,flutter,swift,git,github,discord,bootstrap,figma)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
 # 📊 GitHub Stats:

@@ -30,11 +30,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GokulAnithaNandakumar&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <!---### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GokulAnithaNandakumar&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GokulAnithaNandakumar&icon=4&color=12)](https://visitcount.itsvg.in)
+
 
 
 # My Holopin Badges

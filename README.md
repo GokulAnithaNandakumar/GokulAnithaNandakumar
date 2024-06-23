@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      - 👀 I’m interested in learning different programming languages</br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+# 💫 About Me:
+- 👀 I’m interested in learning different programming languages</br>
 - 🌱 I’m currently learning Java Programming and willing to learn more</br>
 - 💞️ I’m looking to collaborate on Web Development</br>
 - 📫 Reach me on my mail: gokul.nandakumar04@gmail.com
@@ -16,6 +18,8 @@
 ![My Skills](https://skillicons.dev/icons?i=py,java,c,html,css,javascript,mongodb,express,react,nodejs,flutter,swift,git,github,discord,bootstrap,figma)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+# 💻 Tech Stack:
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)

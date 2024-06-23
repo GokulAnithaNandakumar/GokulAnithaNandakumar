@@ -1,4 +1,4 @@
-<p align="center"><img src="namenew.gif" width="1000" alt="animation.gif"></p>
+<!-- <p align="center"><img src="namenew.gif" width="1000" alt="animation.gif"></p> -->
 
 <h1 align="center">Hi 👋, I'm Gokul</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>

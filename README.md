@@ -44,6 +44,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-000?&logo=express)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![OpenCV](https://img.shields.io/badge/opencv-000?&logo=opencv)

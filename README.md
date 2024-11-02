@@ -34,7 +34,6 @@
 ![Go](https://img.shields.io/badge/go-000?&logo=go)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -66,6 +65,7 @@
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GokulAnithaNandakumar&theme=dark)](https://git.io/streak-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GokulAnithaNandakumar&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark&custom_title=My%20Github%20Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulAnithaNandakumar&layout=compact&theme=vision-friendly-dark)](https://github.com/GokulAnithaNandakumar/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

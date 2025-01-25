@@ -64,7 +64,7 @@
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GokulAnithaNandakumar&theme=dark)](https://git.io/streak-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GokulAnithaNandakumar&line_height=28&show=prs_merged_percentage,reviews&hide=prs,issues&rank_icon=github&theme=github_dark&custom_title=My%20Github%20Stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GokulAnithaNandakumar&line_height=28&show=prs_merged_percentage,reviews&rank=S,AAA&rank_icon=github&theme=github_dark&custom_title=My%20Github%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulAnithaNandakumar&size_weight=0.5&count_weight=1&layout=donut&theme=github_dark&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
